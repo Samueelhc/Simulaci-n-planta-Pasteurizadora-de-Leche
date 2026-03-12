@@ -1,0 +1,2 @@
+ABIERTA    CERRADA         0               0
+V2             V3         TEMP      P VAPOR DE LECHE
